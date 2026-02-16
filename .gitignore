@@ -1,0 +1,20 @@
+# Python virtual environment
+qa_env/
+*.pyc
+__pycache__/
+
+# Test reports
+reports/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# IDE/Editor files
+.vscode/
+*.idea/
+*.sublime-workspace
